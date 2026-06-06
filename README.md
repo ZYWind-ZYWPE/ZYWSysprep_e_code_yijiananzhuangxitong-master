@@ -1,0 +1,2 @@
+# ZYWSysprep_e_code_yijiananzhuangxitong-master
+竹影清风开发的一键安装系统的易语言源码，本软件为竹影清风PE开发的专属安装软件
