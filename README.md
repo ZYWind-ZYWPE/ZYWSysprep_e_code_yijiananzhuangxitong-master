@@ -12,7 +12,7 @@
 
 🛠运行环境
 系统：Win10/Win11 PE
-依赖：cmd.exe、bcdboot、reg.exe
+依赖：cmd.exe、reg.exe
 其他功能依赖已嵌入到软件内
 
 📄协议
